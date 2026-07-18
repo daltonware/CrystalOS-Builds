@@ -39,6 +39,8 @@ There is (will be) 5 main editions,
   CrystalOS Professional
   and CrystalOS Ultimate
 
+THOSE .iso FILES ARE MEANT TO BE USED ON VIRTUAL HARDWARE (VirtualBox or VMWare), NOT ON REAL HARDWARE.
+
   Over time i'll add more things to the Readme, stay tuned.
 
   Daltonware, July 2026.
