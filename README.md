@@ -1,5 +1,5 @@
 # CrystalOS-Builds
-Every day 21 and 7 of every month, except for at least 1 month after the release of the final version, there will be at least 1 release (ISOs) and if there's any bugs reported, a bug-fixed version. IF THE SOURCE IS NOT FROM GITHUB OR daltonware YOU MIGHT BE IN DANGER! BECAUSE IT COULD BE A MALWARE, BE CAREFUL WHEN DOWNLOADING CRYSTALOS!
+Every day 7, 14, 21 and 28 of every month, except for at least 1 month after the release of the final version, there will be at least 1 release (ISOs) and if there's any bugs reported, a bug-fixed version. IF THE SOURCE IS NOT FROM GITHUB OR daltonware YOU MIGHT BE IN DANGER! BECAUSE IT COULD BE A MALWARE, BE CAREFUL WHEN DOWNLOADING CRYSTALOS!
 
 Current native program list (programs that come with the system when installed, some might come on "X edition", some might not come on "Y edition", all of them come on "Ultimate edition")
 
